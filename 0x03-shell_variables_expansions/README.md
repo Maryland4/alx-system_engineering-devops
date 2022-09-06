@@ -1,0 +1,1 @@
+0x03 shell, init files, variables, and expansions project. This is a continuation of shell alias commands, variables and expansions. New commands introduced includes: printenv, set, unset, export, alias, unalias, . ,source, printf
